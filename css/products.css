@@ -1,5 +1,20 @@
+.guitars {
+	display: flex;
+
+	justify-content: space-between;
+}
 .product-image{
 	display: block;
 	border: 1px solid #999;
 	width: 300px;
+	color: transparent;
+	margin: 30px;
+}
+
+.guitar h1 {
+	text-align: center;
+	
+}
+.guitar p {
+	margin: 15px 30px;
 }
