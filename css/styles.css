@@ -12,3 +12,22 @@ h1{
 h2{
     font-size: 1.7rem;
 }
+
+.view-more {
+	border: 2px solid #999;
+	padding: 8px 16px;
+	margin: 10px;
+	text-decoration: none;
+	background-color: yellow;
+	color: blue;
+}
+
+.footer{
+	width: 100%;
+}
+
+.footer div {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}

@@ -2,13 +2,23 @@
 	display: flex;
 
 	justify-content: space-between;
+	margin: 20px;
 }
+.guitar {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin: 15px;
+}
+
 .product-image{
 	display: block;
+	justify-content: center;
 	border: 1px solid #999;
 	width: 300px;
 	color: transparent;
 	margin: 30px;
+	
 }
 
 .guitar h1 {
